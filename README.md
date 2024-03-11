@@ -48,8 +48,8 @@
 </div>
 <br></br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwan9709)](https://solved.ac/profile/jeonji0109)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lim-seunghwan99)](https://github.com/DarkBlackRice/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeonji0109)](https://solved.ac/profile/jeonji0109)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkBlackRice)](https://github.com/DarkBlackRice/github-readme-stats)
 
 </div>
 
